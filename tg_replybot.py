@@ -16,6 +16,7 @@ allowed_groups = [
     -1002729739716   # Prime Engagement Agency (PEA)
 ]
 API_TOKEN ="7958869133:AAGqQ0Vby9dZzP-7Au6HTtx0LeUA-jNgDtc"
+DB_URI = "postgresql://postgres:vBIcCldpttkiHdJFfeCWuIFCsyfhckFM@trolley.proxy.rlwy.net:59793/railway"
 auto_reply = "up"
 
 # Keywords
